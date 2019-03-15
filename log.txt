@@ -1,0 +1,54 @@
+Main begin timestamp 1537339354 secs 809282274 nsecs
+
+Thread of priority 10	Number of iterations 100	Start time 812286923	Stop time 812287720	Elapsed time 797
+
+Thread of priority 30	Number of iterations 500	Start time 812333711	Stop time 812336780	Elapsed time 3069
+
+Thread of priority 20	Number of iterations 200	Start time 812381320	Stop time 812382633	Elapsed time 1313
+
+Thread of priority 10	Number of iterations 100	Start time 12432234	Stop time 12433249	Elapsed time 1015
+
+Thread of priority 10	Number of iterations 100	Start time 212627567	Stop time 212628640	Elapsed time 1073
+
+Thread of priority 20	Number of iterations 200	Start time 312622880	Stop time 312624708	Elapsed time 1828
+
+Thread of priority 10	Number of iterations 100	Start time 412802661	Stop time 412803676	Elapsed time 1015
+
+Thread of priority 30	Number of iterations 500	Start time 562478186	Stop time 562482134	Elapsed time 3948
+
+Thread of priority 10	Number of iterations 100	Start time 612928504	Stop time 612929483	Elapsed time 979
+
+Thread of priority 20	Number of iterations 200	Start time 812787833	Stop time 812789664	Elapsed time 1831
+
+Thread of priority 10	Number of iterations 100	Start time 813042015	Stop time 813042967	Elapsed time 952
+
+Thread of priority 10	Number of iterations 100	Start time 13188923	Stop time 13189939	Elapsed time 1016
+
+Thread of priority 10	Number of iterations 100	Start time 213328086	Stop time 213329105	Elapsed time 1019
+
+Thread of priority 30	Number of iterations 500	Start time 312619775	Stop time 312623720	Elapsed time 3945
+
+Thread of priority 20	Number of iterations 200	Start time 312925756	Stop time 312927493	Elapsed time 1737
+
+Thread of priority 10	Number of iterations 100	Start time 413467317	Stop time 413468332	Elapsed time 1015
+
+Thread of priority 10	Number of iterations 100	Start time 613592391	Stop time 613593407	Elapsed time 1016
+
+Thread of priority 20	Number of iterations 200	Start time 813017689	Stop time 813018392	Elapsed time 703
+
+Thread of priority 10	Number of iterations 100	Start time 813674571	Stop time 813674973	Elapsed time 402
+
+Thread of priority 10	Number of iterations 100	Start time 13854209	Stop time 13855278	Elapsed time 1069
+
+Thread of priority 30	Number of iterations 500	Start time 62756906	Stop time 62760868	Elapsed time 3962
+
+Thread of priority 10	Number of iterations 100	Start time 213997977	Stop time 213998498	Elapsed time 521
+
+Thread of priority 20	Number of iterations 200	Start time 313157724	Stop time 313159458	Elapsed time 1734
+
+Thread of priority 10	Number of iterations 100	Start time 414135620	Stop time 414136649	Elapsed time 1029
+
+Thread of priority 10	Number of iterations 100	Start time 614271509	Stop time 614272525	Elapsed time 1016
+
+
+Main exit timestamp 1537339357 secs 812337688 nsecs
